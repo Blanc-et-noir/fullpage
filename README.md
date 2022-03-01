@@ -10,5 +10,5 @@
   - [SourceCode](https://github.com/Blanc-et-noir/COVID-19-INFO/tree/main/covid19)
 
 * Fullpage Plugin Demo
-  - [WebService](https://www.google.co.kr/webhp)
-  - [SourceCode](http://jrw9215.dothome.co.kr/covid19.html)
+  - [WebService]()
+  - [SourceCode]()
